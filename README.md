@@ -1,6 +1,6 @@
 - 👋 Hi, everyone i am  Ajay chakraborty
 - 👀 I’m interested in AI
-- 🌱 I’m currently degree in Artificial intelligence and machine learning
+- 🌱 I’m currently persuing degree in Artificial intelligence and machine learning
 - 💞️ I’m aiming to get placed on google or microsoft
   
 
